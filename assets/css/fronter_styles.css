@@ -1,5 +1,6 @@
-body{
+.fronter_body{
     background-color: antiquewhite;
+    color: #46280e;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
     font-size: larger;
@@ -8,4 +9,5 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+
 }

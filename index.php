@@ -4,8 +4,8 @@
     include "models/Models.php";
     include "models/Users.php";
 
-    $user = new Users();
-
+    $users = new Users();
+    
 
     include "views/app.php";
 
